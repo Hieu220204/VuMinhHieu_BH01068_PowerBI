@@ -1,0 +1,21 @@
+product_id,product_name,description,price,manufacturer,weight,length,width,height,product_group_id
+1,Smartphone X,Advanced smartphone with AI features,799.99,ABC Electronics,0.35,5.8,2.8,0.3,1
+2,Laptop Y,Ultra-thin laptop with high-performance specs,1499.99,XYZ Technologies,1.2,13.3,8.9,0.6,2
+3,Tablet Z,10-inch tablet with stylus support,499.99,DEF Tablets,0.5,9.7,6.8,0.3,1
+4,Smartwatch A,Fitness-focused smartwatch with GPS,199.99,FitTech Inc.,0.08,1.6,1.4,0.4,3
+5,Headphones B,Wireless noise-cancelling headphones,299.99,SonicAudio,0.25,,2.5,2.5,4
+6,Smart Speaker C,Voice-controlled smart speaker,149.99,HomeTech,1.1,4.7,4.7,7.1,5
+7,Camera D,High-resolution DSLR camera,1999.99,PixelPhotography,2.0,5.3,3.9,3.0,6
+8,Drone E,Professional drone with HD camera,1499.99,SkyHighTech,1.5,10.0,10.0,3.0,7
+9,TV F,55-inch OLED 4K Smart TV,1999.99,VisionTech,35.0,48.4,30.7,10.7,8
+10,Gaming Console G,Next-gen gaming console with VR capabilities,499.99,GameTech,4.0,17.0,12.0,3.0,9
+11,Printer H,All-in-one printer scanner copier,299.99,PrintTech,15.0,17.3,23.5,10.0,10
+12,Monitor I,27-inch 4K Ultra HD monitor,399.99,DisplayTech,12.0,24.1,7.4,19.7,11
+13,External Hard Drive J,2TB USB 3.0 External HDD,99.99,StorageTech,0.5,4.8,3.2,0.6,12
+14,Wireless Router K,Dual-band Gigabit WiFi Router,149.99,ConnectTech,1.0,,6.0,6.0,13
+15,Smart Thermostat L,Programmable smart thermostat,149.99,ClimateControl,0.6,3.3,3.3,1.2,14
+16,Electric Toothbrush M,Bluetooth-enabled electric toothbrush,79.99,DentalTech,0.3,9.8,1.0,1.0,15
+17,Home Security Camera N,HD security camera with night vision,129.99,SecureTech,0.5,2.8,2.8,4.5,16
+18,Wireless Earbuds O,True wireless earbuds with charging case,129.99,SoundTech,0.1,,1.5,1.5,4
+19,Smart Lock P,Keyless entry smart lock,199.99,SecureHome,1.0,3.5,2.7,1.1,17
+20,Fitness Tracker Q,Activity tracker with heart rate monitor,99.99,FitTech Inc.,0.05,1.6,0.7,0.4,3

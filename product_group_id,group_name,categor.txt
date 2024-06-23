@@ -1,0 +1,6 @@
+product_group_id,group_name,category,created_date,updated_date,notes,manager,location,status,priority
+1,Smartphones,Electronics,2023-01-01,2023-06-30,"Category for all smartphone products.",John Doe,Headquarters,Active,1
+2,Laptops,Electronics,2023-02-15,2023-07-31,"Category for all laptop products.",Jane Smith,Branch Office,Active,2
+3,Wearables,Electronics,2023-03-20,2023-08-31,"Category for wearable devices like smartwatches and fitness trackers.",Michael Johnson,Headquarters,Active,3
+4,Audio Devices,Electronics,2023-04-05,2023-09-30,"Category for audio equipment including headphones and speakers.",Susan Williams,Branch Office,Active,4
+5,Home Appliances,Electronics,2023-05-10,2023-10-31,"Category for home appliances such as TVs and kitchen gadgets.",David Brown,Headquarters,Active,5
